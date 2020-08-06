@@ -1,2 +1,2 @@
 # machin-creators
-My team wants to pruduce a machine to male water from air
+My team wants to produce a machine to make water from air
